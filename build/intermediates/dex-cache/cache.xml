@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/geemakunstorey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_67430d4a506e116708b88b4c4b7dbc35a12831bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_70aa41a457f83cf1535889bc9cc63c3107101836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0bfc211a32931e3e4ac6206682ed23f2b612ebc3">
+        <dex dex="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cc28e1166d0aad8f8b031f76bb5f7f1a7c3bd01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2334f0dac1cee47dfb8e222f2571859e9f36b237">
+        <dex dex="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_22b80292e1f899570e1bf56257a7d95aeb4bfb7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_51b3ae79fc1084b41cacdd42a551947f75aaaa92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5062724fdd04fc41d1e643041a1a7e8cf5906c80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_72bfc3c3a31a075040a8bb15592343479d992b96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Applications/MAMP/htdocs/RGBA_MVC_Geemakun_Storey/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_f269b9b33306f0be428d9e58f962e85888e9f360/classes.dex" />
+    </item>
+
+</items>
